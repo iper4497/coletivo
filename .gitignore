@@ -4,3 +4,4 @@
 migrations/*
 .pydevproject
 .project
+.gitignore
