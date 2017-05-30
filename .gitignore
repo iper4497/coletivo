@@ -1,4 +1,11 @@
-*.sqlite3
-*.db
+# Created by https://www.gitignore.io/api/django
+
+### Django ###
+*.log
+*.pot
 *.pyc
-migrations/*
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
