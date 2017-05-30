@@ -33,12 +33,11 @@ class Space(models.Model):
     visibility = models.BooleanField(default=True)
     tags = models.ManyToManyField(Tag)
     created_at = models.DateTimeField(auto_now_add=True, editable=False)
-    # Todo: Generate user model to link to this field
     created_by = models.ForeignKey(Profile, on_delete=models.CASCADE)
     updated_at = models.DateTimeField(auto_now=True)
     #updated_by =
     color = models.CharField(max_length=20)
-    url = models.URLField()
+    url = models.SlugField()
 
     def __str__(self):
         return self.name

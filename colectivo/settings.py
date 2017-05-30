@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'spaces',
     'profiles',
     'tasks',
+    'polls',
 ]
 
 MIDDLEWARE_CLASSES = [
