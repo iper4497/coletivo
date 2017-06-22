@@ -1,3 +1,8 @@
 from django.shortcuts import render
+#from .models import Space, Tag
 
-# Create your views here.
+
+def dashboard(request):
+    return render(request, 'pruebas.html')
+
+#class

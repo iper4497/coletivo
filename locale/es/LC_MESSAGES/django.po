@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-16 11:49+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: colectivo/settings.py:126
+msgid "Spanish"
+msgstr "Castellano"
+
+#: colectivo/settings.py:127
+msgid "English"
+msgstr "Inglés"
+
+#: polls/apps.py:9
+msgid "polls"
+msgstr "votaciones"
+
+#: polls/models.py:9
+msgid "question text"
+msgstr "texto pregunta"
+
+#: polls/models.py:10
+msgid "publication date"
+msgstr "fecha publicación"
+
+#: polls/models.py:12 spaces/models.py:49
+msgid "space"
+msgstr "espacio"
+
+#: polls/models.py:18 polls/models.py:25
+msgid "question"
+msgstr "pregunta"
+
+#: polls/models.py:19
+msgid "questions"
+msgstr "preguntas"
+
+#: polls/models.py:26
+msgid "choice text"
+msgstr "texto opción"
+
+#: polls/models.py:27
+msgid "votes"
+msgstr "votos"
+
+#: polls/models.py:33
+msgid "choice"
+msgstr "opción"
+
+#: polls/models.py:34
+msgid "choices"
+msgstr "opciones"
+
+#: profiles/apps.py:9 profiles/models.py:31
+msgid "profiles"
+msgstr "perfiles"
+
+#: profiles/models.py:13
+msgid "user"
+msgstr "usuario"
+
+#: profiles/models.py:14
+msgid "email confirmed"
+msgstr "email confirmado"
+
+#: profiles/models.py:15
+msgid "avatar"
+msgstr "avatar"
+
+#: profiles/models.py:30
+msgid "profile"
+msgstr "perfil"
+
+#: spaces/apps.py:7 spaces/models.py:50
+msgid "spaces"
+msgstr "espacios"
+
+#: spaces/models.py:9
+msgid "word"
+msgstr "palabra"
+
+#: spaces/models.py:11 spaces/models.py:35
+msgid "created at"
+msgstr "creado el"
+
+#: spaces/models.py:17
+msgid "tag"
+msgstr "etiqueta"
+
+#: spaces/models.py:18 spaces/models.py:34
+msgid "tags"
+msgstr "etiquetas"
+
+#: spaces/models.py:24 tasks/models.py:11
+msgid "name"
+msgstr "nombre"
+
+#: spaces/models.py:25
+msgid "description"
+msgstr "descripción"
+
+#: spaces/models.py:28
+msgid "Invitation"
+msgstr "Invitación"
+
+#: spaces/models.py:29
+msgid "Free"
+msgstr "Libre"
+
+#: spaces/models.py:31
+msgid "join policy"
+msgstr "politica de unión"
+
+#: spaces/models.py:33
+msgid "visibility"
+msgstr "visibilidad"
+
+#: spaces/models.py:38
+msgid "created_by"
+msgstr "creado_por"
+
+#: spaces/models.py:39
+msgid "updated at"
+msgstr "actualizado el"
+
+#: spaces/models.py:41
+msgid "updated_by"
+msgstr "actualizado_por"
+
+#: spaces/models.py:42
+msgid "color"
+msgstr "color"
+
+#: tasks/apps.py:9 tasks/models.py:23
+msgid "tasks"
+msgstr "tareas"
+
+#: tasks/models.py:13
+msgid "assign"
+msgstr "asignado"
+
+#: tasks/models.py:14
+msgid "deadline"
+msgstr "deadline"
+
+#: tasks/models.py:22
+msgid "task"
+msgstr "tarea"

@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-16 10:59+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: colectivo/settings.py:126
+msgid "Spanish"
+msgstr "Spanish"
+
+#: colectivo/settings.py:127
+msgid "English"
+msgstr "English"
+
+#: polls/models.py:9
+msgid "question text"
+msgstr ""
+
+#: polls/models.py:10
+msgid "publication date"
+msgstr ""
+
+#: polls/models.py:12 spaces/models.py:46
+#, fuzzy
+#| msgid "Space"
+msgid "space"
+msgstr "Space"
+
+#: polls/models.py:18 polls/models.py:25
+#, fuzzy
+#| msgid "description"
+msgid "question"
+msgstr "description"
+
+#: polls/models.py:19
+#, fuzzy
+#| msgid "description"
+msgid "questions"
+msgstr "description"
+
+#: polls/models.py:26
+msgid "choice text"
+msgstr ""
+
+#: polls/models.py:27
+msgid "votes"
+msgstr ""
+
+#: polls/models.py:33
+msgid "choice"
+msgstr ""
+
+#: polls/models.py:34
+msgid "choices"
+msgstr ""
+
+#: profiles/models.py:13
+msgid "user"
+msgstr ""
+
+#: profiles/models.py:14
+msgid "email confirmed"
+msgstr ""
+
+#: profiles/models.py:15
+msgid "avatar"
+msgstr ""
+
+#: profiles/models.py:30
+msgid "profile"
+msgstr ""
+
+#: profiles/models.py:31
+msgid "profiles"
+msgstr ""
+
+#: spaces/models.py:8
+msgid "word"
+msgstr "word"
+
+#: spaces/models.py:10 spaces/models.py:34
+msgid "created_at"
+msgstr "created_at"
+
+#: spaces/models.py:16
+msgid "Tag"
+msgstr ""
+
+#: spaces/models.py:17
+msgid "Tags"
+msgstr ""
+
+#: spaces/models.py:23 tasks/models.py:11
+msgid "name"
+msgstr "name"
+
+#: spaces/models.py:24
+msgid "description"
+msgstr "description"
+
+#: spaces/models.py:30
+msgid "join_policy"
+msgstr "join_policy"
+
+#: spaces/models.py:32
+msgid "visibility"
+msgstr "visibility"
+
+#: spaces/models.py:37
+msgid "updated_at"
+msgstr "updated_at"
+
+#: spaces/models.py:39
+msgid "color"
+msgstr "color"
+
+#: spaces/models.py:47
+#, fuzzy
+#| msgid "Spaces"
+msgid "spaces"
+msgstr "Spaces"
+
+#: tasks/models.py:13
+msgid "assign"
+msgstr ""
+
+#: tasks/models.py:14
+msgid "deadline"
+msgstr ""
+
+#: tasks/models.py:22
+msgid "task"
+msgstr ""
+
+#: tasks/models.py:23
+msgid "tasks"
+msgstr ""
